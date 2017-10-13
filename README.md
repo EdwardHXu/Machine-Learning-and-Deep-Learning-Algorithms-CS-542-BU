@@ -5,3 +5,4 @@ Machine learning and Deep Learning (from basic algorithms to CNNs)
 <br />2. Logistic Regression
 <br />3. K_Means
 <br />4. PCA and Dimensionality Reduction
+<br />5. Two Layer Neural Network
