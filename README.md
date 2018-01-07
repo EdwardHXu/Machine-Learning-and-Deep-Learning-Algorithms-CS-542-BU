@@ -6,3 +6,6 @@ Machine learning and Deep Learning (from basic algorithms to CNNs)
 <br />3. K_Means
 <br />4. PCA and Dimensionality Reduction
 <br />5. Two Layer Neural Network
+<br />6. Linear Discriminant Analysis
+<br />7. CNN using TensorFlow
+<br />8. Support Vector Machines
